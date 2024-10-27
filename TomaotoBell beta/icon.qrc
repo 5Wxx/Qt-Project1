@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CarbonSettingsEdit (1).svg</file>
+        <file>CarbonSettingsEdit (2).svg</file>
+        <file>CarbonSettingsEdit.svg</file>
+        <file>IconoirPlay (1).svg</file>
+        <file>IconoirPlay (2).svg</file>
+        <file>IconoirPlay.svg</file>
+        <file>IonPauseOutline (1).svg</file>
+        <file>IonPauseOutline (2).svg</file>
+        <file>IonPauseOutline.svg</file>
+        <file>MaterialSymbolsRestartAltRounded (1).svg</file>
+        <file>MaterialSymbolsRestartAltRounded (2).svg</file>
+        <file>MaterialSymbolsRestartAltRounded.svg</file>
+        <file>music/tip.wav</file>
+        <file>IconamoonCloseThin (1).svg</file>
+        <file>IconamoonCloseThin (2).svg</file>
+        <file>IconamoonCloseThin.svg</file>
+        <file>StreamlineEmojisTomato.svg</file>
+        <file>MaterialSymbolsCheckCircleOutlineRounded.svg</file>
+        <file>MaterialSymbolsCheckCircleRounded.svg</file>
+        <file>BiFolder2 (1).svg</file>
+        <file>BiFolder2 (2).svg</file>
+        <file>BiFolder2.svg</file>
+    </qresource>
+</RCC>
